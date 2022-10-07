@@ -1,5 +1,5 @@
-# Learning-HTML-P2 Summary
-
+# Learning-HTML-P2 Summary and to do list
+# These are steps /checklist I used  when creating a website and also what I learned inorder add them to my website
 ## Create HTML and host public pages through Github
 ## Make childpages and create folders for images, audio, and video
 ## Create sections for child pages
